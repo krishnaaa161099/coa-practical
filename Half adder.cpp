@@ -1,3 +1,8 @@
+                                                                     half adder
+
+
+
+
 // C++ program for above approach
 #include <bits/stdc++.h>
 using namespace std;
