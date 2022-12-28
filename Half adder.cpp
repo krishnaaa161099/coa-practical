@@ -1,4 +1,4 @@
-                                                                     half adder
+                                                                     Half adder
 
 
 
