@@ -1,3 +1,7 @@
+                                                                    Half substractor
+
+
+
 // C++ program to implement Half subtractor
  
 #include <bits/stdc++.h>
